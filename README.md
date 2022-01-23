@@ -1,2 +1,2 @@
 # IDSC_Task
-##.net Core Mvc Task (news sample website)
+## .net Core Mvc Task (news sample website)
