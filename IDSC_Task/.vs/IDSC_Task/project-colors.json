@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c88b5553-a5f4-4855-86ad-9d8fca476cef": {
+      "ProjectGuid": "c88b5553-a5f4-4855-86ad-9d8fca476cef",
+      "DisplayName": "IDSC_Task.Core",
+      "ColorIndex": 0
+    },
+    "60925969-fa4d-47ab-8a14-d0f5d0f11a57": {
+      "ProjectGuid": "60925969-fa4d-47ab-8a14-d0f5d0f11a57",
+      "DisplayName": "IDSC_Task.EF",
+      "ColorIndex": 1
+    },
+    "9d78c98a-ad0e-434b-a948-f0730ca4f62d": {
+      "ProjectGuid": "9d78c98a-ad0e-434b-a948-f0730ca4f62d",
+      "DisplayName": "IDSC_Task",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,12 @@
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\bin\Debug\net5.0\IDSC_Task.Core.deps.json
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\bin\Debug\net5.0\IDSC_Task.Core.dll
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\bin\Debug\net5.0\ref\IDSC_Task.Core.dll
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\bin\Debug\net5.0\IDSC_Task.Core.pdb
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\IDSC_Task.Core.csproj.AssemblyReference.cache
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\IDSC_Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\IDSC_Task.Core.AssemblyInfoInputs.cache
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\IDSC_Task.Core.AssemblyInfo.cs
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\IDSC_Task.Core.csproj.CoreCompileInputs.cache
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\IDSC_Task.Core.dll
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\ref\IDSC_Task.Core.dll
+C:\Users\abdal\OneDrive\Desktop\IDSC_Task\IDSC_Task.Core\obj\Debug\net5.0\IDSC_Task.Core.pdb

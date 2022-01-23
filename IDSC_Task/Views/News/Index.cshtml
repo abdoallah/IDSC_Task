@@ -1,0 +1,48 @@
+﻿@using IDSC_Task.Core.Models
+@model List<News>
+
+@section catSection{
+    <div class="container ">
+<div class="row">
+@foreach (var item in ViewBag.CategoryData)
+{
+     <div class="col-4">
+ <div class="card">
+  <div class="card-body">
+    <h5 class="card-title">@item.Name</h5>
+    <p class="card-text">@item.Description</p>
+    
+  </div>
+</div>
+  <br>
+</div>
+
+   }
+</div> 
+</div>
+}
+
+
+
+
+@section NewsCards{
+   <div class="container" >
+<div class="row">
+    @foreach (var item in Model)
+   {
+  <div class="col-4">
+<div class="card">
+  <img src="/Images/@item.Photo" class="card-img-top" alt="news img">
+  <div class="card-body">
+    <h5 class="card-title">@item.Title</h5>
+    <p class="card-text">@item.Content</p>
+    <time class="card-text" >@item.PublishDate</time>
+    
+  </div>
+ </div>
+ <br>
+</div>
+   }
+   </div>
+   </div>
+}
