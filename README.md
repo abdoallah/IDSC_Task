@@ -6,6 +6,6 @@
 # key outcomes 
 *production ready web page 
 # pachages 
-.....microsoft entity framework core 
-.....microsoft entity framework sql server 
-.....microsoft entity framework tools
+*microsoft entity framework core 
+*microsoft entity framework sql server 
+*microsoft entity framework tools
